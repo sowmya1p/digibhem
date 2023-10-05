@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    .all{
+        border-radius: 8px solid black;
+        background-color:rgba(159, 158, 156, 0.565);
+        box-shadow: 1px 2px 5px;
+        height:2300px;
+        padding:10px;
+    }
+    .no{
+        width: 80%;
+        margin-left: 11%;
+    }
+    p{
+        display: inline;
+    }
+    body{
+        font-size:xx-large;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTigsM2qieVQUio_UPwiJ1SECVf6wAN8bY4A&usqp=CAU);
+        background-size: cover;
+    }
+    
